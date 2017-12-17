@@ -9,7 +9,9 @@ Bots == UI
 Bots != AI
 
 Chatbots are really just the presentational form on to any application; 
-It just happens to be messaging based (voice or text). 
+It just happens to be messaging based (voice or text).
+
+Glitch: https://glitch.com/edit/#!/homely-chat-bot
 
 --------
 
@@ -121,6 +123,7 @@ https://developers.google.com/actions/design/walkthrough#write_dialogs
 ## Summary ##
 
 Bot created at: https://www.messenger.com/t/152003135425672
+
 Bot admin page: https://dashboard.chatfuel.com/#/bot/5a330411e4b0e46d5e95dd55/structure/5a330411e4b0e46d5e95de7a
 
 --------
