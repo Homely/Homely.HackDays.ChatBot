@@ -124,7 +124,11 @@ https://developers.google.com/actions/design/walkthrough#write_dialogs
 
 Bot created at: https://www.messenger.com/t/152003135425672
 
-Bot admin page: https://dashboard.chatfuel.com/#/bot/5a330411e4b0e46d5e95dd55/structure/5a330411e4b0e46d5e95de7a
+## References ##
+
+ChatFuel bot: https://dashboard.chatfuel.com/#/bot/5a330411e4b0e46d5e95dd55/structure/5a330411e4b0e46d5e95de7a
+
+ChatFuel API docs: http://docs.chatfuel.com/plugins/plugin-documentation/json-api
 
 --------
 
