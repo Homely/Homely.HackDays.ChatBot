@@ -1,0 +1,16 @@
+{
+  "name": "homely-hackdays-chatbot",
+  "version": "1.0.0",
+  "description": "ChatBot Demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Michael",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.72.0",
+    "express": "*",
+    "body-parser": "*"
+  }
+}
